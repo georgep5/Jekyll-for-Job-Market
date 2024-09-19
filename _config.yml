@@ -1,20 +1,26 @@
 # Configs for pwills.com
 
-title: "pwills.com"
-name: "pwills.com"
-email: peter@pwills.com
-url: "http://www.pwills.com"
-repository: "peterewills/peterewills.github.io"
+title: "Learning Jekyll"
+name: "Jekyll base site based on pwills.com"
+email: a.bougher1999@gmail.com
+url: "https://adambougher.github.io/Demo-jekyll-site"
+repository: "AdamBougher/Demo-jekyll-site"
 
 include:
   - _pages
   - assets
   - index.html
 exclude:
-  - TODO.md
-  - README.md
-  - "*.org"
-  - "*ltximg*"
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 plugins:
   - jekyll-feed
@@ -23,18 +29,18 @@ plugins:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dirt"
 
 # settings for author profile
 author:
-  name   : "Peter Wills"
-  avatar : "/assets/images/headshot.jpg"
-  bio    : "I enjoy writing about things I'm interested in - mostly computing, math, physics, and software engineering."
-  location: "Ithaca, NY"
-  github : peterewills
-  linkedin: peterewills
-  email  : peter@pwills.com
+  name   : "Anna Klis"
+  avatar : "/assets/images/anna.jpg"
+  bio    : "My name is Anna Klis, and I am an Associate Professor of Economics at Northern Illinois University."
+  location: "DeKalb, Illinois,"
+  github : 
+  linkedin: https://www.linkedin.com/in/anna-klis-1337a150/
+  email  : 
 
 
 # # comments by disqus

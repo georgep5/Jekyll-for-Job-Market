@@ -4,10 +4,16 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Portfolio"
+  - title: "Curriculum Vitae"
+    url: /assets/docs/cv.pdf
+  - title: "Research"
     url: /portfolio/
-  - title: "Resume"
-    url: /assets/docs/resume.pdf
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Links"
+    url: /links/
+  - title: "Contact"
+    url: /contact/
   # - title: "Blog"
   #   url: /blog/
 
@@ -17,25 +23,25 @@ portfolio:
     children:
 #      - title: "Machine Learning on AWS"
 #        url: /portfolio/coming/
-      - title: "Anomaly Detection in Social Networks"
-        url: /portfolio/social-networks/
-      - title: "NetComp: Python Network Comparison"
-        url: /portfolio/netcomp/
-      - title: "Automatic Genre Classification"
-        url: /portfolio/genre_cls/
+      # - title: "Anomaly Detection in Social Networks"
+      #   url: /portfolio/social-networks/
+      # - title: "NetComp: Python Network Comparison"
+      #   url: /portfolio/netcomp/
+      # - title: "Automatic Genre Classification"
+      #   url: /portfolio/genre_cls/
 
-  - title: "Professional"
-    children:
-      - title: "DeskAI"
-        url: /portfolio/deskai
-      - title: "Smart Climate Index"
-        url: /portfolio/sclm
+  # - title: "Professional"
+  #   children:
+  #     - title: "DeskAI"
+  #       url: /portfolio/deskai
+  #     - title: "Smart Climate Index"
+  #       url: /portfolio/sclm
 
-  - title: "Research"
-    children:
-      - title: "Dynamic Anomaly Detection"
-        url: /portfolio/networks/
-      - title: "Statistics of Entanglement"
-        url: /portfolio/qm_stats/
-      - title: "Magnetic Waves and Noise"
-        url: /portfolio/waves/
+  # - title: "Research"
+  #   children:
+  #     - title: "Dynamic Anomaly Detection"
+  #       url: /portfolio/networks/
+  #     - title: "Statistics of Entanglement"
+  #       url: /portfolio/qm_stats/
+  #     - title: "Magnetic Waves and Noise"
+  #       url: /portfolio/waves/
