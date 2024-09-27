@@ -3,8 +3,7 @@ title: "Who is Anna Klis?"
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/images/betty_bear.jpg
-  caption: "Sunrise at [__Betty Bear Hut__](http://www.huts.org/The_Huts/bettybear.php)"
+  overlay_image: /assets/images/niubanner.png
 
 excerpt: "I am an applied game theorist. My fields include public economics, environmental economics, and microeconomic theory, with a focus on externalities and coordination."
 
