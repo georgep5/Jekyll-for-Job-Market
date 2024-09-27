@@ -2,7 +2,6 @@
 title: " "
 header:
   overlay_image: /assets/images/niubanner.png
-  caption: "Photo Credit: **Kathleen Finlinson**"
 ---
 
 # Welcome​
