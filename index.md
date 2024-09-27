@@ -1,7 +1,7 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/utah.jpg
+  overlay_image: /assets/images/niubanner.png
   caption: "Photo Credit: **Kathleen Finlinson**"
 ---
 
