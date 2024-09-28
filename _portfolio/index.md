@@ -1,7 +1,7 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/niubanner.png
+  image: /assets/images/niubanner.png
 permalink: /portfolio/index.html
 ---
 
