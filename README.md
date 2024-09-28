@@ -84,7 +84,7 @@ Steps 1-3 are preparatory steps to prepare your repo, content, and page setup. S
      - Change `avatar:` to "/assets/images/[your-image-filename.extension]".
      - Update `bio:` with a brief professional description of yourself.
      - Update `github:` with your GitHub username (if applicable).
-     - Update `linkedin:` with your LinkedIn profile URL.
+     - Update `linkedin:` with your LinkedIn profile name, the part that comes after \in\ on your LinkedIn profile url (e.g. anna-klis-1337a150). Delete the fake profile and leave this blank if you do not have a LinkedIn.
 4. Click "Commit changes".  
     - You can choose either "Commit directly to the `master` branch" or "Create a **new branch** for this commit and start a pull request." If you work slowly, follow these instructions carefully, and do not touch other settings, you can have some confidence in committing directly to the master branch.
 
