@@ -6,8 +6,6 @@ classes: wide
 permalink: /contact/
 ---
 
-# Contact Information
-
 ### Campus Office
 Northern Illinois University  
 Department of Economics  
