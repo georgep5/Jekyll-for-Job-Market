@@ -5,6 +5,8 @@ name: "Jekyll base site based on pwills.com"
 email: a.bougher1999@gmail.com
 url: "https://adambougher.github.io/Demo-jekyll-site"
 repository: "AdamBougher/Demo-jekyll-site"
+header:
+  image: /assets/images/niubanner.jpg
 
 include:
   - _pages
