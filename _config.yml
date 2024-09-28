@@ -42,7 +42,7 @@ author:
   bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
   location: "DeKalb, Illinois,"
   github : 
-  linkedin: "school/northern-illinois-university"
+  linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
   email  : 
 
 
