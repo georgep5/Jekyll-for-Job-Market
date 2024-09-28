@@ -109,5 +109,68 @@ In this step, you are setting up the landing page for your profile. This page we
 4. Update the biography text to reflect your professional story.
 5. Commit the changes.
 
+### Step 6: Update Your CV Link
+
+In this step, you'll ensure that the link to your CV is correctly set up in the navigation menu of your website.
+
+1. Navigate to the `_data` folder and open `navigation.yml`.
+2. Click the pencil icon to edit.
+3. Find the "Curriculum Vitae" entry under `main:`.
+4. Update the `url:` to `/assets/docs/[your-cv-filename].pdf`.
+5. Commit the changes.
+6. Wait a few minutes for your site to be published, and then refresh your profile to see your changes.
+
+### Step 7: Update Your Research
+
+This step involves customizing the research section of your website to showcase your academic work.
+
+1. In the `_portfolio` folder, open `index.md`.
+2. Click the pencil icon to edit.
+3. Update the research sections with your own work:
+   - If you do not have any publications, you can remove the `<h2 id="publications">Publications</h2>` anchored header.
+   - Update the "Working Papers" section with your current research.
+4. For each paper, update the title, description, and the name of the document to the name of your PDF: `[Download File]({{ site.baseurl }}/assets/docs/[your-paper-filename].pdf)`
+5. Commit the changes.
+6. If you removed the **Publications** section title, you will need to update the `_data/navigation.yml` file:  
+   - Like in **Step 6**, go to the  `_data` folder and open `navigation.yml`.  
+   - Click the pencil icon to edit.  
+   - Scroll down to `portfolio:`, and under the `children:` section, delete the two lines that delineate the **Publications** section:
+     ```
+           - title: "Publications"
+             url: /portfolio/#publications
+     ```
+   - Commit the changes.
+7. Wait a few minutes for your site to be published, and then refresh your profile to see your changes.
+
+### Step 8: Update Teaching, Links, and Contact Pages
+
+In this step, you'll finish personalizing your site by updating the Teaching, Links and Contact sections of your website to reflect your academic experience and interests.
+
+1. Navigate to the `_pages` folder.
+2. Open `teaching.md` and click the pencil icon to edit.
+3. Update the content with your teaching experience using Markdown[^2] language to format the sections.
+4. Commit the changes.
+5. Navigate back to the `_pages` folder.
+6. Open `links.md` and click the pencil icon to edit.
+7. Update with links relevant to your field and interests. Remember that, in Markdown, a link follows the following structure:  
+   ```[The Text that Appears](url of your link)```
+8. Commit the changes.
+9. Navigate back to the `_pages` folder.
+10. Open `contact.md` and click the pencil icon to edit.
+11. Update your campus office from "Out on the Field" (ECON grad students are in DuSable 470), update your office hours, and update the filename of your warped email
+    ```![image of email]({{site.baseurl}}/assets/images/[your-email-filename].jpg)```
+13. Commit the changes.
+14. Wait a few minutes for your site to be published, and then refresh your profile to see your changes.
+
+### Final Steps
+
+1. Review your site by going to `https://[yourgithubusername].github.io/[your-repo-name]`.
+2. Check all pages and links to ensure everything is working correctly.
+3. If you notice any issues, you can make further edits directly on GitHub or clone the repository to your local machine for more extensive changes.
+
+Remember, it may take a few minutes for changes to appear on your live site after committing them. If you don't see your changes, try clearing your browser cache or viewing the site in an incognito/private browsing window.
+
 
 [^1]: The warped email image is a simple yet effective measure to protect your email address from automated scraping. Web crawlers and bots often harvest email addresses from websites for spam lists. By presenting your email as a slightly distorted image, it remains easily readable for human visitors while being much more difficult for automated systems to recognize and collect. This small step can prevent an increase in the amount of unwanted emails and spam that would come from putting up your email address directly.
+
+[^2]: Some resources for working with Markdown are this [general cheat sheet](https://www.markdownguide.org/cheat-sheet/) and this [Markdown-Cheatsheet repo](https://github.com/lifeparticle/Markdown-Cheatsheet).
