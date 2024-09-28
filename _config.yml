@@ -1,11 +1,11 @@
 # Configs for pwills.com
 
 title: "Jekyll Profile"
-name: "Jekyll base site based on pwills.com"
-email: a.bougher1999@gmail.com
-url: "https://adambougher.github.io"
-baseurl: "/jekyll-pwillis"
-repository: "AdamBougher/jekyll-pwillis"
+name: "A Free Job Market Profile in Jekyll"
+email: 
+url: "https://econ-691.github.io"
+baseurl: "/Jekyll-for-Job-Market"
+repository: "ECON-691/Jekyll-for-Job-Market"
 header:
   image: /assets/images/niubanner.png
 
