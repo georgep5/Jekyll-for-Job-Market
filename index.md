@@ -6,16 +6,16 @@ header:
 
 # Welcome​
 
-<img src="{{ "https://www.annaklis.com/uploads/6/4/7/2/6472295/background-images/1304969027.jpg" }}"
-width="50%" hspace="20" align="right">
+<img src="https://raw.githubusercontent.com/username/repo-name/main/assets/images/fancyMission.jpg" width="50%" hspace="20" align="right">
 
-My name is Anna Klis, and I am an Associate Professor of Economics at Northern Illinois University.  
+My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
 
-I am an applied game theorist. My fields include public economics, environmental economics, and microeconomic theory, with a focus on externalities and coordination.
+I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
 
 ### Background
-I've lived in seven states, and I received my PhD in Economics from the University of Texas at Austin in May of 2015. My main studies focused on microeconomics and game theory, with some work in experimental economics, industrial organization, and formal theory in political science. 
 
-Prior to doctoral studies, I graduated from the Georgetown University Walsh School of Foreign Service in May of 2010.  During my three years there, I studied International Economics, helped organize the Carroll Round conference, and took part in student theatre.  I was also a teacher, Program Director, and Country Coordinator of the Learning Enterprises program in Poland. 
+I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
 
-Aside from researching and teaching economics, I enjoy video games, caving, opera, and science-fiction and fantasy novels.﻿
+Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
+
+When I'm not representing NIU at events, I enjoy playing with my toys, going for walks around campus, and meeting new people. I'm looking forward to fully stepping into my role and becoming an integral part of the Huskie Nation!
