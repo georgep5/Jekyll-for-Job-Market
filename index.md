@@ -6,7 +6,7 @@ header:
 
 # Welcome​
 
-<img src="https://raw.githubusercontent.com/AdamBougher/jekyll-pwillis/assets/images/fancyMission.jpg" width="50%" hspace="20" align="right">
+<img src="https://github.com/AdamBougher/jekyll-pwillis/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
 
 My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
 
