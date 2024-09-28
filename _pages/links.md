@@ -1,8 +1,11 @@
 ---
 title: "Links"
+header:
+  image: /assets/images/niubanner.png
 classes: wide
 permalink: /links/
 ---
+
 # Northern Illinois University Links
 - [NIU Department of Economics](https://www.niu.edu/clas/econ/)
 - [NIU Institute for the Study of the Environment, Sustainability & Energy](https://www.niu.edu/clas/ese/)
