@@ -3,6 +3,7 @@ title: "Contact Information"
 header:
   image: /assets/images/niubanner.png
 classes: wide
+permalink: /contact/
 ---
 
 # Contact Information
