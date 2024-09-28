@@ -74,9 +74,14 @@ Steps 1-3 are preparatory steps to prepare your repo, content, and page setup. S
    - Update `url:` to "https://[yourgithubusername].github.io".
    - Update `baseurl:` to "/[your-repo-name]" (e.g., "/Jane-Doe-Profile") for the name of the repo you're working in with this website.
    - Change `repository:` to "[yourgithubusername]/[your-repo-name]".
+   - Update the file name in the header image to your headshot (this image is *not* the banner image at the top of every page; rather, it is the image that shows up when you link the website in a program the generates a preview of the site)
+     ```
+     header:
+       image: /assets/images/[your-image-filename.extension]
+     ```
    - Scroll down to `# settings for author profile`. Under `author:`
      - Update `name:` with your full name in quotation marks.
-     - Change `avatar:` to "/assets/images/[your-image-filename]".
+     - Change `avatar:` to "/assets/images/[your-image-filename.extension]".
      - Update `bio:` with a brief professional description of yourself.
      - Update `github:` with your GitHub username (if applicable).
      - Update `linkedin:` with your LinkedIn profile URL.
@@ -106,9 +111,9 @@ In this step, you are setting up the landing page for your profile. This page we
 
 1. In your repository, find and open the `index.md` file.
 2. Click the pencil icon to edit.
-3. Update the image link with your GitHub username, the name of the repo you're working in, and the filename of your headshot:
+3. Update the image link with your GitHub username, the name of the repo you're working in, and the file name of your headshot:
    ```
-   <img src="https://github.com/[yourgithubusername]/[your-repo-name]/blob/main/assets/images/[your-image-filename]?raw=true" width="50%" hspace="20" align="right">
+   <img src="https://github.com/[yourgithubusername]/[your-repo-name]/blob/main/assets/images/[your-image-filename.extension]?raw=true" width="50%" hspace="20" align="right">
    ```
 4. Update the biography text to reflect your professional story.
 5. Commit the changes.
@@ -120,7 +125,7 @@ In this step, you'll ensure that the link to your CV is correctly set up in the 
 1. Navigate to the `_data` folder and open `navigation.yml`.
 2. Click the pencil icon to edit.
 3. Find the "Curriculum Vitae" entry under `main:`.
-4. Update the `url:` to `/assets/docs/[your-cv-filename].pdf`.
+4. Update the `url:` to `/assets/docs/[your-cv-].pdf`.
 5. Commit the changes.
 6. Wait a few minutes for your site to be published, and then refresh your profile to see your changes.
 
@@ -133,7 +138,7 @@ This step involves customizing the research section of your website to showcase 
 3. Update the research sections with your own work:
    - If you do not have any publications, you can remove the `<h2 id="publications">Publications</h2>` anchored header.
    - Update the "Working Papers" section with your current research.
-4. For each paper, update the title, description, and the name of the document to the name of your PDF: `[Download File]({{ site.baseurl }}/assets/docs/[your-paper-filename].pdf)`
+4. For each paper, update the title, description, and the name of the document to the name of your PDF: `[Download File]({{ site.baseurl }}/assets/docs/[your-paper].pdf)`
 5. Commit the changes.
 6. If you removed the **Publications** section title, you will need to update the `_data/navigation.yml` file:  
    - Like in **Step 6**, go to the  `_data` folder and open `navigation.yml`.  
@@ -161,8 +166,8 @@ In this step, you'll finish personalizing your site by updating the Teaching, Li
 8. Commit the changes.
 9. Navigate back to the `_pages` folder.
 10. Open `contact.md` and click the pencil icon to edit.
-11. Update your campus office from "Out on the Field" (ECON grad students are in DuSable 470), update your office hours, and update the filename of your warped email
-    ```![image of email]({{site.baseurl}}/assets/images/[your-email-filename].jpg)```
+11. Update your campus office from "Out on the Field" (ECON grad students are in DuSable 470), update your office hours, and update the  of your warped email
+    ```![image of email]({{site.baseurl}}/assets/images/[your-email-filename.extension])```
 13. Commit the changes.
 14. Wait a few minutes for your site to be published, and then refresh your profile to see your changes.
 
