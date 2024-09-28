@@ -23,13 +23,17 @@ This template offers several advantages for students going on the job market:
 
 ## Getting Started
 
-The instructions that follow will guide you step-by-step through the process of setting up your own professional economics job market website. Whether you're tech-savvy or new to web development, these detailed instructions will help you create a polished online presence to support your job market journey. *Let's get building!*
+In order to use this template, you will want to make sure you have a GitHub account. For more documentation on how to use a similar template with Git on your machine, please check out the [pwills.com repo](https://github.com/peterewills/peterewills.github.io) directly.
 
 ### Step 0: Sign up for GitHub
 
 If you do not yet have a GitHub account, sign up for one. An easy guide to doing so is available [here](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
 - Make sure to choose a professional sounding username! Stay away from silly words and numbers. Consider something simple and identifiable, such as JaneDoe, mkowal, or JSmithNIU. *You can change your username; please see instructions for doing so [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/changing-your-github-username).*
 - Use your university email address in making your account to be eligible for GitHub Education, which has numerous benefits. Follow [these instructions on applying to GitHub Education](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student) as a student.
+
+## Detailed Instructions
+
+The instructions that follow will guide you step-by-step through the process of setting up your own professional economics job market website. Whether you're tech-savvy or new to web development, these detailed instructions will help you create a polished online presence to support your job market journey. *Let's get building!*
 
 ### Step 1: Clone this Repository
 
@@ -165,12 +169,12 @@ In this step, you'll finish personalizing your site by updating the Teaching, Li
 ### Final Steps
 
 1. Review your site by going to `https://[yourgithubusername].github.io/[your-repo-name]`.
-2. Check all pages and links to ensure everything is working correctly. *Double check you've removed all the disclaimer's about the template website!*
+2. Check all pages and links to ensure everything is working correctly. *Double check you've removed all the disclaimers about the template website!*
 3. If you notice any issues, you can make further edits directly on GitHub or clone the repository to your local machine for more extensive changes.
 
 Remember, it may take a few minutes for changes to appear on your live site after committing them. If you don't see your changes, try clearing your browser cache or viewing the site in an incognito/private browsing window. 
 
-### Advanced Style Issues
+## Advanced Style Issues
 
 - If you want to remove any pages, make sure to update the `navigation.yml` file as in **Step 6**. Just deleting the .md file won't work and might break your site!
 - If you want to personalize the banner with a different image (like a photo or custom Canva banner), make sure to resize your image to a width of 1280 px and then upload it to the `assets/images` folder as in **Step 2**. Go through the pages and update niubanner.png to your file name (with extension) in the header info of each page:
