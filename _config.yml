@@ -3,7 +3,8 @@
 title: "Jekyll Profile"
 name: "Jekyll base site based on pwills.com"
 email: a.bougher1999@gmail.com
-url: "https://adambougher.github.io/jekyll-pwillis"
+url: "https://adambougher.github.io"
+baseurl: "/jekyll-pwillis"
 repository: "AdamBougher/jekyll-pwillis"
 header:
   image: /assets/images/niubanner.png
