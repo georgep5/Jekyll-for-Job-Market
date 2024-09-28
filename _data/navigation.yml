@@ -17,32 +17,13 @@ main:
 
 # sidebar for portfolio
 portfolio:
-  - title: "Publications"
-#    url: /portfolio/index.md#publications
+  - title: "Research"
     children:
-#      - title: "Machine Learning on AWS"
+      - title: "Publications"
 #        url: /portfolio/coming/
-      # - title: "Anomaly Detection in Social Networks"
+       - title: "Working Papers"
       #   url: /portfolio/social-networks/
-      # - title: "NetComp: Python Network Comparison"
+       - title: "Just for Fun"
       #   url: /portfolio/netcomp/
       # - title: "Automatic Genre Classification"
       #   url: /portfolio/genre_cls/
-
-   - title: "Working Papers"
-   #  url: /portfolio/index.md#working-papers
-     children:
-  #     - title: "DeskAI"
-  #       url: /portfolio/deskai
-  #     - title: "Smart Climate Index"
-  #       url: /portfolio/sclm
-
-   - title: "Just for Fun"
- #    url: /portfolio/index.md#just-for-fun
-     children:
-  #     - title: "Dynamic Anomaly Detection"
-  #       url: /portfolio/networks/
-  #     - title: "Statistics of Entanglement"
-  #       url: /portfolio/qm_stats/
-  #     - title: "Magnetic Waves and Noise"
-  #       url: /portfolio/waves/
