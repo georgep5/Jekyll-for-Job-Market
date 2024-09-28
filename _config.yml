@@ -38,24 +38,24 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author:
   name   : "Anna Klis"
-  avatar : "/assets/images/anna.jpg"
-  bio    : "My name is Anna Klis, and I am an Associate Professor of Economics at Northern Illinois University."
+  avatar : "/assets/images/banner-husky.jpg"
+  bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
   location: "DeKalb, Illinois,"
   github : 
-  linkedin: https://www.linkedin.com/in/anna-klis-1337a150/
+  linkedin: https://www.linkedin.com/school/northern-illinois-university
   email  : 
 
 
 # # comments by disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "pwills-com"
+#comments:
+  #provider: "disqus"
+  #disqus:
+    #shortname: "pwills-com"
 
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-116208936-1"
+#analytics:
+  #provider: "google"
+  #google:
+    #tracking_id: "UA-116208936-1"
 
 
 # pagination for blog page
