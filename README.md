@@ -165,10 +165,21 @@ In this step, you'll finish personalizing your site by updating the Teaching, Li
 ### Final Steps
 
 1. Review your site by going to `https://[yourgithubusername].github.io/[your-repo-name]`.
-2. Check all pages and links to ensure everything is working correctly.
+2. Check all pages and links to ensure everything is working correctly. *Double check you've removed all the disclaimer's about the template website!*
 3. If you notice any issues, you can make further edits directly on GitHub or clone the repository to your local machine for more extensive changes.
 
-Remember, it may take a few minutes for changes to appear on your live site after committing them. If you don't see your changes, try clearing your browser cache or viewing the site in an incognito/private browsing window.
+Remember, it may take a few minutes for changes to appear on your live site after committing them. If you don't see your changes, try clearing your browser cache or viewing the site in an incognito/private browsing window. 
+
+### Advanced Style Issues
+
+- If you want to remove any pages, make sure to update the `navigation.yml` file as in **Step 6**. Just deleting the .md file won't work and might break your site!
+- If you want to personalize the banner with a different image (like a photo or custom Canva banner), make sure to resize your image to a width of 1280 px and then upload it to the `assets/images` folder as in **Step 2**. Go through the pages and update niubanner.png to your file name (with extension) in the header info of each page:
+  ```
+  header:
+    image: /assets/images/[your-filename.extension]
+  ```
+- If you change the banner image, you may want to change the color of links. You can do so by navigating to the `asset` folder, opening the `css` subfolder, and then clicking the `main.scss` file. Click the pencil icon to edit. You can update the hex code in the `$primary-color:` and `$link-color:` sections with your [chosen color](https://htmlcolorcodes.com/color-picker/).
+- The white background and black color at the bottom have been selected as a clean, professional-looking template. While I do not recommend changin these, if you really want something different, you configure the *skin* of the Minimal Mistakes theme. Read more about how to do so and browse the color skins [here](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
 
 [^1]: The warped email image is a simple yet effective measure to protect your email address from automated scraping. Web crawlers and bots often harvest email addresses from websites for spam lists. By presenting your email as a slightly distorted image, it remains easily readable for human visitors while being much more difficult for automated systems to recognize and collect. This small step can prevent an increase in the amount of unwanted emails and spam that would come from putting up your email address directly.
