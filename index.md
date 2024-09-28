@@ -1,9 +1,3 @@
----
-title: " "
-header:
-  overlay_image: /assets/images/niubanner.png
----
-
 # Welcome​
 
 <img src="{{ "https://www.annaklis.com/uploads/6/4/7/2/6472295/background-images/1304969027.jpg" }}"
