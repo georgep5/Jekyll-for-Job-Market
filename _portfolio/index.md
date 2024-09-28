@@ -1,8 +1,7 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/tools.jpg
-  caption: "Photo credit: [**Ricky Kharawala**](https://unsplash.com)"
+  overlay_image: /assets/images/niubanner.png
 permalink: /portfolio/index.html
 date: 2018-01-07
 
