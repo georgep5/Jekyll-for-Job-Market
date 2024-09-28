@@ -18,7 +18,7 @@ main:
 # sidebar for portfolio
 portfolio:
   - title: "Publications"
-    url: /portfolio/index.md#publications
+#    url: /portfolio/index.md#publications
 #    children:
 #      - title: "Machine Learning on AWS"
 #        url: /portfolio/coming/
@@ -30,7 +30,7 @@ portfolio:
       #   url: /portfolio/genre_cls/
 
    - title: "Working Papers"
-     url: /portfolio/index.md#working-papers
+   #  url: /portfolio/index.md#working-papers
   #   children:
   #     - title: "DeskAI"
   #       url: /portfolio/deskai
@@ -38,7 +38,7 @@ portfolio:
   #       url: /portfolio/sclm
 
    - title: "Just for Fun"
-     url: /portfolio/index.md#just-for-fun
+ #    url: /portfolio/index.md#just-for-fun
   #   children:
   #     - title: "Dynamic Anomaly Detection"
   #       url: /portfolio/networks/
