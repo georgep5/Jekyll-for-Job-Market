@@ -19,7 +19,7 @@ main:
 portfolio:
   - title: "Publications"
 #    url: /portfolio/index.md#publications
-#    children:
+    children:
 #      - title: "Machine Learning on AWS"
 #        url: /portfolio/coming/
       # - title: "Anomaly Detection in Social Networks"
@@ -31,7 +31,7 @@ portfolio:
 
    - title: "Working Papers"
    #  url: /portfolio/index.md#working-papers
-  #   children:
+     children:
   #     - title: "DeskAI"
   #       url: /portfolio/deskai
   #     - title: "Smart Climate Index"
@@ -39,7 +39,7 @@ portfolio:
 
    - title: "Just for Fun"
  #    url: /portfolio/index.md#just-for-fun
-  #   children:
+     children:
   #     - title: "Dynamic Anomaly Detection"
   #       url: /portfolio/networks/
   #     - title: "Statistics of Entanglement"
