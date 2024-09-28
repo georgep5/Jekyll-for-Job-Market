@@ -19,7 +19,7 @@ This template offers several advantages for students going on the job market:
 - **Clean and Professional Design**: The Minimal Mistakes theme provides a simple, modern look that works well for academic profiles.
 - **Cost-Effective**: Hosted on GitHub Pages, this solution is completely free, allowing you to allocate your resources elsewhere in your life/job search.
 - **Customizable**: While maintaining a professional appearance, the template is flexible enough to reflect your individual academic identity.
-- **Easy to Implement**: The following instructions are detailed and user-friendly, making it accessible even for those with limited web development experience while also improving your coding schools.
+- **Easy to Implement**: The following instructions are detailed and user-friendly, making it accessible even for those with limited web development experience while also improving your coding skills.
 
 ## Getting Started
 
@@ -34,11 +34,12 @@ If you do not yet have a GitHub account, sign up for one. An easy guide to doing
 ### Step 1: Clone this Repository
 
 1. Click the green "Use this template" button.
-2. In the dropdown menue, right-click "Create new repository" and open it in a new tab.
+2. In the dropdown menu, right-click "Create new repository" and open it in a new tab.
 3. Name your repository professionally, e.g., "Jane-Doe-Profile" or "John-Smith-Academic".
-4. Make sure the repository is set to "Public".
-5. Click "Create repository".
-6. Keep these instructions open in a separate tab. If you accidentally close the the tab, the instructions will automatically be included in your new repo as the README.md file.
+4. You can leave description blank, or you can write a meaningful phrase like "My Jekyll job market profile".
+5. Make sure the repository is set to "Public".
+6. Click "Create repository".
+7. Keep these instructions open in a separate tab. If you accidentally close the tab, the instructions will automatically be included in your new repo as the README.md file.
 
 ### Step 2: Upload Your Documents
 
@@ -80,10 +81,18 @@ If you do not yet have a GitHub account, sign up for one. An easy guide to doing
 
 1. Go to your repository's "Settings" tab.
 2. Click on "Pages" in the left sidebar.
-3. Under "Source", select the branch you want to deploy (usually "main" or "master").
-4. Select "/(root)" for the folder.
+3. Under "**Source**", leave the option "Deploy from a branch" in place. Below that, under "**Branch**" select the branch you want to deploy (usually "main" or "master").
+4. Leave "/(root)" for the folder.
 5. Click "Save".
-6. Wait a few minutes for your site to be published.
+6. Go back to your repo's "Code" tab. On the right-side, find "**About**" and click the setting gear wheel next to it.
+7. Check the box next to "**Use your GitHub Pages website**" which should immediately update the Website field to your "https://[yourgithubusername].github.io/[your-repo-name]/".
+8. Click "Save changes".
+9. Wait a few minutes for your site to be published.
+10. Right-click the link now for your profile and open it in a new tab.
+
+Now, every time you click "Commit changes" and commit directly to the master branch, you should be able to see your updates happen on your profile. You will need to hit refresh, and you may need to wait for a moment, even up to a few minutes. 
+
+Hopefully, by following this guide, we limit any issues with page build. However, if your changes are not showing up, make sure to look at your code page and scroll down to **Deployments**. If you see a 🟢 (green circle) with a checkmark, then github-pages has been successful. If you see a 🟠 (orange/yellow circle), it is still building and deploying. If you see a red ❌, you will need to troubleshoot the deployment. Search for answers online, in the GitHub forums/documentation, or consulting with an AI like Claude.
 
 ### Step 5: Update index.md
 
