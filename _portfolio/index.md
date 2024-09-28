@@ -50,7 +50,7 @@ Penn, J., Hu, W., Vassalos, M., **Klis, AA., Discrete Choice Experiments Can Gen
   
 **Klis, AA.**, Stinchcombe, MB., **Voluntary Information Sharing.**
 
----
+
 
 <h2 id="just-for-fun">Just for Fun</h2>
 
