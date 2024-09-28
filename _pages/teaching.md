@@ -20,4 +20,4 @@ permalink: /teaching/
  - MKTG 315: Sports Marketing and Branding (fall 2023)  
     - Guest lecture on "The Mascot's Role in University Brand Identity"  
 - PSYC 220: Social Psychology (spring 2024)  
-    - Special seminar on "The Psychology of Human-Mascot Interactions in Large Crowds"  
+    - Special seminar on "The Psychology of Human-Mascot Interactions in Large Crowds"   
