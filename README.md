@@ -182,7 +182,7 @@ Remember, it may take a few minutes for changes to appear on your live site afte
 ## Advanced Style Issues
 
 - If you want to remove any pages, make sure to update the `navigation.yml` file as in **Step 6**. Just deleting the .md file won't work and might break your site!
-- If you want to personalize the banner with a different image (like a photo or custom Canva banner), make sure to resize your image to a width of 1280 px and then upload it to the `assets/images` folder as in **Step 2**. Go through the pages and update niubanner.png to your file name (with extension) in the header info of each page:
+- If you want to personalize the banner with a different image (like a photo or custom Canva banner), make sure to resize your image to a width of 1280 px and then upload it to the `assets/images` folder as in **Step 2**. Go through all the pages[^3] and update niubanner.png to your file name (with extension) in the header info of each page:
   ```
   header:
     image: /assets/images/[your-filename.extension]
@@ -195,3 +195,5 @@ Remember, it may take a few minutes for changes to appear on your live site afte
 [^1]: The warped email image is a simple yet effective measure to protect your email address from automated scraping. Web crawlers and bots often harvest email addresses from websites for spam lists. By presenting your email as a slightly distorted image, it remains easily readable for human visitors while being much more difficult for automated systems to recognize and collect. This small step can prevent an increase in the amount of unwanted emails and spam that would come from putting up your email address directly.
 
 [^2]: Some resources for working with Markdown are this [general cheat sheet](https://www.markdownguide.org/cheat-sheet/) and this [Markdown-Cheatsheet repo](https://github.com/lifeparticle/Markdown-Cheatsheet).
+
+[^3]: Welcome/landing page at `index.md`, Research page at `\_portfolio\index.md`, and the Teaching/Links/Contact pages in the `\_pages\` folder at `teaching.md`, `links.md`, and `contact.md`
