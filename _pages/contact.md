@@ -1,8 +1,11 @@
 ---
-title: "Contact information"
-classes: wide
-permalink: /contact/
+title: " "
+header:
+  overlay_image: /assets/images/niubanner.png
 ---
+
+# Contact Information
+
 Campus Office
 Northern Illinois University
 Department of Economics
