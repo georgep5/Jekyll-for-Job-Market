@@ -33,6 +33,8 @@ If you do not yet have a GitHub account, sign up for one. An easy guide to doing
 
 ### Step 1: Clone this Repository
 
+Steps 1-3 are preparatory steps to prepare your repo, content, and page setup. Step 4 will actually launch your page.
+
 1. Click the green "Use this template" button.
 2. In the dropdown menu, right-click "Create new repository" and open it in a new tab.
 3. Name your repository professionally, e.g., "Jane-Doe-Profile" or "John-Smith-Academic".
@@ -96,9 +98,16 @@ Hopefully, by following this guide, we limit any issues with page build. However
 
 ### Step 5: Update index.md
 
+In this step, you are setting up the landing page for your profile. This page welcomes individuals to your site and gives a description of your background.
+
 1. In your repository, find and open the `index.md` file.
 2. Click the pencil icon to edit.
-3. Update the image link:
+3. Update the image link with your GitHub username, the name of the repo you're working in, and the filename of your headshot:
+   ```
+   <img src="https://github.com/[yourgithubusername]/[your-repo-name]/blob/main/assets/images/[your-image-filename]?raw=true" width="50%" hspace="20" align="right">
+   ```
+4. Update the biography text to reflect your professional story.
+5. Commit the changes.
 
 
 [^1]: The warped email image is a simple yet effective measure to protect your email address from automated scraping. Web crawlers and bots often harvest email addresses from websites for spam lists. By presenting your email as a slightly distorted image, it remains easily readable for human visitors while being much more difficult for automated systems to recognize and collect. This small step can prevent an increase in the amount of unwanted emails and spam that would come from putting up your email address directly.
