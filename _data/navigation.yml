@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Curriculum Vitae"
-    url: /assets/docs/Claude.pdf
+    url: /assets/docs/Mission.pdf
   - title: "Research"
     url: /portfolio/
   - title: "Teaching"
