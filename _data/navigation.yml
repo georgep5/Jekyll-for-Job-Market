@@ -17,8 +17,9 @@ main:
 
 # sidebar for portfolio
 portfolio:
-  - title: "Projects"
-    children:
+  - title: "Publications"
+    url: /portfolio/Publications
+#    children:
 #      - title: "Machine Learning on AWS"
 #        url: /portfolio/coming/
       # - title: "Anomaly Detection in Social Networks"
@@ -28,14 +29,14 @@ portfolio:
       # - title: "Automatic Genre Classification"
       #   url: /portfolio/genre_cls/
 
-  # - title: "Professional"
+   - title: "Working Papers"
   #   children:
   #     - title: "DeskAI"
   #       url: /portfolio/deskai
   #     - title: "Smart Climate Index"
   #       url: /portfolio/sclm
 
-  # - title: "Research"
+   - title: "Just for Fun"
   #   children:
   #     - title: "Dynamic Anomaly Detection"
   #       url: /portfolio/networks/
