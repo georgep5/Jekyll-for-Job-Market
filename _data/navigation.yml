@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
   - title: "Curriculum Vitae"
     url: /assets/docs/cv.pdf
   - title: "Research"
