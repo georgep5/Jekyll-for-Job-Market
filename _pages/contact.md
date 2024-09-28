@@ -1,7 +1,9 @@
 ---
-title: " "
+title: "Contact Information"
 header:
   overlay_image: /assets/images/niubanner.png
+classes: wide
+permalink: /contact/
 ---
 
 # Contact Information
