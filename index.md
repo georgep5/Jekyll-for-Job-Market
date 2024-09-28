@@ -6,10 +6,10 @@ header:
 
 # Welcome​
 
-My name is Anna Klis, and I am an Associate Professor of Economics at Northern Illinois University.  
-
 <img src="{{ "https://www.annaklis.com/uploads/6/4/7/2/6472295/background-images/1304969027.jpg" }}"
 width="50%" hspace="20" align="right">
+
+My name is Anna Klis, and I am an Associate Professor of Economics at Northern Illinois University.  
 
 I am an applied game theorist. My fields include public economics, environmental economics, and microeconomic theory, with a focus on externalities and coordination.
 
