@@ -6,10 +6,11 @@ classes: wide
 permalink: /contact/
 ---
 
+*This page is fictional and created as part of a job market website demo in Jekyll.*
+
 ### Campus Office
 Northern Illinois University  
-Department of Economics  
-510 Zulauf Hall  
+Out on the Field
 DeKalb, IL 60115-2825  
 
 ###### Office Hours:  
