@@ -7,7 +7,7 @@ permalink: /portfolio/index.html
 
 # Research
 
-## Publications
+<h2 id="publications">Publications</h2>
 ### International Environmental Agreements:
 **Klis, AA.**, McGinty M., **Citizen Carbon Fund: Harmonized International Carbon Taxes and Transfers to Increase Treaty Size**, 2022. *The B.E. Journal of Economic Analysis & Policy*, 22(2): 269-280. Keywords: IEAs, public goods, stable coalitions, climate change, pollution abatement, asymmetry, transfers Available at: [https://doi.org/10.1515/bejeap-2021-0072](https://doi.org/10.1515/bejeap-2021-0072)  
   
@@ -38,7 +38,7 @@ Melstrom, RT., **Klis, AA.**, **Estimating dynamic adjustment in commercial fish
   
 **Inequality and Superfund Sites: Using Backwards Design, Cooperative Learning, and Data Integration in Introductory Environmental Economics**, 2023. *The Journal of Economic Education*, 54 (4). Keywords: ​backward design, classroom data integration, GDP per capita, Superfund, team-based learning. Available at: [https://doi.org/10.1080/00220485.2023.2242338](https://doi.org/10.1080/00220485.2023.2242338)
   
-## Working Papers  
+<h2 id="working-papers">Working Papers</h2> 
   
 **When is Bad "Bad Enough"? A Framework for Analyzing Benefits of Coordination Under Externalities**. Keywords: game theory, international policy, dynamic externalities, public good provision, Taylor expansion.  
   
@@ -52,7 +52,7 @@ Penn, J., Hu, W., Vassalos, M., **Klis, AA., Discrete Choice Experiments Can Gen
 
 ---
 
-## Just for Fun
+<h2 id="just-for-fun">Just for Fun</h2>
 
 ### For the 9th Carroll Round conference for undergraduate research in international economics:
 **Early Participants of Multilateral Environmental Agreements and Their Effect on Later Membership.**  Honors Thesis for International Economics at Georgetown University. May 2010. Published in the Carroll Round Proceedings, Volume 6 (2011): 238-251.  
